@@ -2,7 +2,7 @@
 
 A curated list of tools for making animated 2D game sprites: AI generators that draw and animate characters, packers that build sprite sheets, editors for drawing frames by hand, free converters, and free assets you can ship.
 
-> **Disclosure:** this list is maintained by the team behind [SpriteCanvas](https://spritecanvas.com/) and [SpritePacker](https://spritepacker.app/), which appear below and are marked *(ours)*. We list what each tool is best at, including where others beat us. Prices and free allowances were checked on 2026-11-03 on each tool's own site; they change, so check before you buy. Corrections and additions are welcome, see [Contributing](#contributing).
+> **Disclosure:** this list is maintained by the team behind [SpriteCanvas](https://spritecanvas.com/) and [SpritePacker](https://spritepacker.app/), which appear below and are marked *(ours)*. We list what each tool is best at, including where others beat us. Prices and free allowances were checked on 2026-11-03 (SpriteCanvas on 2026-11-05) on each tool's own site; they change, so check before you buy. Corrections and additions are welcome, see [Contributing](#contributing).
 
 ## Contents
 
@@ -23,7 +23,7 @@ Each of these takes a character from a text prompt or an image and gives you ani
 | [PixelLab](https://www.pixellab.ai/) | Pixel art | 40 fast generations, then 5 a day | $12/month for 2,000 generations | Yes, free accounts too |
 | [Ludo.ai](https://ludo.ai/) | Any style | 30 trial credits; downloads watermarked | $20/month for 250 credits | $50 Pro plan |
 | [AutoSprite](https://www.autosprite.io/) | Any style | 15 credits a month plus 3 a day | $12/month for 500 credits | $29 Pro plan |
-| [SpriteCanvas](https://spritecanvas.com/) *(ours)* | Any style | 3 credits a day, saves up to 12 | $12/month, or $5 one-time pack | Not yet |
+| [SpriteCanvas](https://spritecanvas.com/) *(ours)* | Any style | 40 credits at sign-up (7 days), then 3 a day that save up to 12 | $12/month, or $5 one-time pack | MCP server, free accounts too |
 | [Gamelabs Studio](https://gamelabstudio.co/) | Any style | 20 credits | $10/month for 120 credits | All paid plans |
 | [SpriteLab](https://spritelab.dev/) | Pixel art | 25 credits plus 5 a day | $7.99 for 400 credits | Yes |
 | [Sprite AI](https://www.sprite-ai.art/) | Pixel art | 15 generations | $8/month for 100 tokens | Yes |
